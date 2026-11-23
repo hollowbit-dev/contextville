@@ -1,0 +1,17 @@
+{
+  "name": "contextville",
+  "version": "1.0.0",
+  "description": "A 3D city that grows with the tokens Claude writes for you. Opens when Claude Code starts.",
+  "author": {
+    "name": "Elvis Zygmanta"
+  },
+  "homepage": "https://github.com/hollowbit-dev/contextville",
+  "repository": "https://github.com/hollowbit-dev/contextville",
+  "license": "MIT",
+  "keywords": [
+    "game",
+    "city-builder",
+    "tokens",
+    "fun"
+  ]
+}

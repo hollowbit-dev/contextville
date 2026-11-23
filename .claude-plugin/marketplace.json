@@ -1,0 +1,14 @@
+{
+  "name": "contextville",
+  "description": "Contextville, a 3D city that grows as you use Claude Code.",
+  "owner": {
+    "name": "Elvis Zygmanta"
+  },
+  "plugins": [
+    {
+      "name": "contextville",
+      "source": "./",
+      "description": "A 3D city that grows with the tokens Claude writes for you."
+    }
+  ]
+}

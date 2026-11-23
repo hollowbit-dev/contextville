@@ -1,0 +1,16 @@
+{
+  "name": "contextville",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node server.mjs --open"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "description": "A city that grows with the tokens Claude writes for you.",
+  "type": "commonjs",
+  "private": true,
+  "engines": {
+    "node": ">=18"
+  }
+}
